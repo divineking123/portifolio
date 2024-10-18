@@ -1,0 +1,46 @@
+.navigation{
+    border: 20px #00008b solid;
+    margin-top: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+background-color: aqua;
+height: 100px;
+width: 100%;
+
+
+}
+.navigation a {
+    padding-left: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.content {
+    margin-top: 20pz;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+background-color: aqua;
+border: 20 darkblue dotted;
+}
+
+
+.pojects{
+    background-color: blueviolet;
+}
+.project-card{
+    border: 3px solid rgb(73, 4, 248);
+    margin: 50px;
+    width: 600px;
+}
+.project-card :hover{
+    transform: scale(1.1);
+}
+
+.project-card img{
+    width: 100%;
+}
+
+
+
+
+
